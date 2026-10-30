@@ -9,7 +9,7 @@ The page shows the combined changes between the last version of the file before 
 
 ## URL parameters
 
-The diff page is linked to by the [Lunaria Diff Viewer](https://github.com/trueberryless-org/lunaria-diff-extension) browser extension, so these parameters must stay stable:
+The diff page is linked to by the [Lunaria Diff Viewer](https://github.com/trueberryless/lunaria-diff-extension) browser extension, so these parameters must stay stable:
 
 ```
 https://git-diff-viewer.netlify.app/diff?repo=withastro/docs&file=src/content/docs/en/getting-started.mdx&since=2025-01-01
