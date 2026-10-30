@@ -36,7 +36,7 @@
   "homepage": "https://git-diff-viewer.netlify.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trueberryless-org/git-diff-viewer.git"
+    "url": "git+https://github.com/trueberryless/git-diff-viewer.git"
   },
-  "bugs": "https://github.com/trueberryless-org/git-diff-viewer/issues"
+  "bugs": "https://github.com/trueberryless/git-diff-viewer/issues"
 }
